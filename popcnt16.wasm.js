@@ -1,0 +1,2 @@
+import{Base128}from"https://code4fukui.github.io/Base128/Base128.js"
+export default Base128.decode(".6h p?@/p@`MV+5^r<@@«ɞu7©Z5@@'xvA $Â´ ÓaPĀ _P¡ÏkB?Wi ?/r@QXT!H²zÚD #0(Bä¿t65 25  `á0")
